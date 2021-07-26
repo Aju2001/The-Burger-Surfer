@@ -1,0 +1,11 @@
+Bill no: 390
+Name of Item            Price     Qty
+---------------------------------------
+Fanta                    50        1
+Coke                     50        1
+
+
+Total Amount:         Rs.100
+
+Date:26-07-2021
+Time:15:07:04
